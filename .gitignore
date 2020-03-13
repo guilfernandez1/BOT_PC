@@ -1,0 +1,6 @@
+.vscode/
+anexos/
+env/
+models/__pycache__/
+dao/__pycache__/
+db/__pycache__/
